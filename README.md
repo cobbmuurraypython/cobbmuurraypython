@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cobbmuurraypython
+- 👋 Hi, I’m @cobbmurray
 - 👀 I’m interested in Creating positive experiences with everyone in my space and aligning with the earth
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on automation projects that reduce processess and time to complete them
